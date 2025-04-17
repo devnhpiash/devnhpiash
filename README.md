@@ -68,7 +68,7 @@
   <a href="https://www.facebook.com/nhpiashcom" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="47" height="35" alt="facebook logo"  />
   </a>
-  <a href="(https://wa.me/8801890638542" target="_blank">
+  <a href="https://wa.me/8801890638542" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="47" height="35" alt="whatsapp logo"  />
   </a>
   <a href="https://www.instagram.com/nh.piash" target="_blank">
