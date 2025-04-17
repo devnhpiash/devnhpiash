@@ -92,7 +92,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/nhpiash/nhpiash/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/devnhpiash/devnhpiash/output/snake.svg" alt="Snake animation" />
 
 ###
 
