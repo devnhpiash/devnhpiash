@@ -77,7 +77,7 @@
   <a href="https://x.com/nhpiash42" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="47" height="35" alt="twitter logo"  />
   </a>
-  <a href="mailto:contact.nhpiash@gmail.com" target="_blank">
+  <a href="mailto:developer.nhpiash@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="35" alt="gmail logo"  />
   </a>
   <a href="https://www.youtube.com/@nhpiash42" target="_blank">
