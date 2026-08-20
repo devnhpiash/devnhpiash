@@ -55,7 +55,7 @@
    <img width="15" />
   <img src="https://devicons.io/devicons/icons/docker.svg" height="50" alt="docker logo"  />
    <img width="15" />
-  <img src="https://devicons.io/devicons/icons/redis.svg" height="50" alt="redis logo"  />
+  <img src="https://icon.icepanel.io/Technology/svg/GitHub-Actions.svg" height="50" alt="GitHub-Actions logo"  />
 </div>
 
 ###
