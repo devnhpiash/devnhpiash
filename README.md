@@ -56,6 +56,9 @@
   <img src="https://devicons.io/devicons/icons/docker.svg" height="50" alt="docker logo"  />
    <img width="15" />
   <img src="https://icon.icepanel.io/Technology/svg/GitHub-Actions.svg" height="50" alt="GitHub-Actions logo"  />
+   <img width="15" />
+  <img src="https://www.encodedots.com/blog/wp-content/uploads/2025/12/CICD-Pipeline.png" height="50" alt="CICD-Pipeline logo"  />
+ 
 </div>
 
 ###
